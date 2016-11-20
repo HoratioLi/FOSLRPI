@@ -1,8 +1,15 @@
 #!/usr/bin/python
 # calendar.py
+<<<<<<< HEAD
 
 
 #this master branch.
+=======
+# create a new branch.
+# author: horatio
+# branch name:gui_master_dev
+
+>>>>>>> gui_master_dev
 import sys
 from PyQt4 import QtGui, QtCore
 
